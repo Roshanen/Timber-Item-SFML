@@ -1,0 +1,14 @@
+﻿  Text.cpp
+C:\Users\pinai\OneDrive\Documents\game\Brirtiak\Brirtiak\Text.cpp(114,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Documents\game\Brirtiak\Brirtiak\Text.cpp(119,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Documents\game\Brirtiak\Brirtiak\Text.cpp(161,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Documents\game\Brirtiak\Brirtiak\Text.cpp(161,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Documents\game\Brirtiak\Brirtiak\Text.cpp(165,9): warning C4996: 'sf::Text::setColor': was declared deprecated
+C:\Users\pinai\OneDrive\Documents\game\Brirtiak\Brirtiak\Text.cpp(236,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Documents\game\Brirtiak\Brirtiak\Text.cpp(236,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2 of 250 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Brirtiak.vcxproj -> C:\Users\pinai\OneDrive\Documents\game\Brirtiak\x64\Release\Brirtiak.exe

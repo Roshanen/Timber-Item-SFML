@@ -1,0 +1,98 @@
+﻿  Board.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Board.cpp(14,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Board.cpp(14,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bomb.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bomb.cpp(15,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bomb.cpp(15,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bomb.cpp(19,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bomb.cpp(19,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bomb.cpp(37,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bomb.cpp(37,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bullet.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(15,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(15,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(23,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(23,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(39,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(39,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(41,18): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(42,18): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(49,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(49,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Enemy.cpp(21,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Enemy.cpp(21,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Enemy.cpp(27,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Enemy.cpp(27,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Enemy.cpp(38,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Enemy.cpp(38,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Enemy.cpp(39,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Enemy.cpp(39,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Item.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Item.cpp(8,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Item.cpp(8,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(287,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(294,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(302,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(310,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(317,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(326,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(334,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(341,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(348,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(355,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(551,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(554,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(556,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(570,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(588,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(591,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(594,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(679,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(679,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\main.cpp(792,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Player.cpp(8,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Player.cpp(8,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Player.cpp(16,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Player.cpp(16,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Punch.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Punch.cpp(14,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Punch.cpp(15,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Punch.cpp(15,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Sound.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(37,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(49,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(52,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(57,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(63,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(69,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(73,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(77,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(87,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(91,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Sound.cpp(95,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Text.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Text.cpp(114,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Text.cpp(119,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Text.cpp(161,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Text.cpp(161,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Text.cpp(165,9): warning C4996: 'sf::Text::setColor': was declared deprecated
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Text.cpp(236,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Text.cpp(236,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tutorial.cpp
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Tutorial.cpp(7,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  UI.cpp
+  Generating Code...
+C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\Brirtiak\Bullet.cpp(36): warning C4715: 'bulletClass::bullet_travel': not all control paths return a value
+  Brirtiak.vcxproj -> C:\Users\pinai\OneDrive\Desktop\New folder\65010100\SourceCode\Brirtiak\x64\Debug\Brirtiak.exe
